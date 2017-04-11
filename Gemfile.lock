@@ -1,0 +1,17 @@
+GIT
+  remote: git://github.com/sharpstone/bad_gemspec_gem.git
+  revision: b4174380bbc650a0c05d07a34b7191b4ac0a12a0
+  specs:
+    bad_gemspec_gem (0.1.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bad_gemspec_gem!
+
+BUNDLED WITH
+   1.14.6
